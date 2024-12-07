@@ -1,0 +1,4 @@
+#pragma once
+#define RGBLIGHT_LAYERS_RETAIN_VAL
+#define LEADER_PER_KEY_TIMING
+#define LEADER_TIMEOUT 250
