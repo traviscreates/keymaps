@@ -1,3 +1,3 @@
 # Keymaps
 
-For SplitKB's Kyria v2.1
+For Kyria v2.1 and Charybdis MK2
